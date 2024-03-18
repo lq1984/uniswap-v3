@@ -21,6 +21,22 @@
       "symbol": "WFX",
       "decimals": 18,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3884.png"
+    },
+    {
+      "chainId": 90001,
+      "address": "0x75a240C34d1380a4e5E033F87ef7e8Da2BF7A01A",
+      "name": "Token0",
+      "symbol": "Token0",
+      "decimals": 6,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png"
+    },
+    {
+      "chainId": 90001,
+      "address": "0x1D658fC1aB1c5E8d0F535bA9b226d9457409EbEd",
+      "name": "Token1",
+      "symbol": "Token1",
+      "decimals": 6,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png"
     }
   ],
   "version": {
