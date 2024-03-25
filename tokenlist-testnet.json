@@ -37,6 +37,22 @@
       "symbol": "Token1",
       "decimals": 6,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png"
+    },
+    {
+      "chainId": 90001,
+      "address": "0x022aC14096B5E9d565AaB720FB1e18a98766CA18",
+      "name": "404Token1",
+      "symbol": "404Token1",
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png"
+    },
+    {
+      "chainId": 90001,
+      "address": "0x03047e98cCdC8d25A046F4097a01D04ec13d4853",
+      "name": "404Token1",
+      "symbol": "404Token1",
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png"
     }
   ],
   "version": {
