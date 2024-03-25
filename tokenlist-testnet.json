@@ -53,6 +53,23 @@
       "symbol": "404Token2",
       "decimals": 18,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png"
+    },
+
+    {
+      "chainId": 90001,
+      "address": "0x9c817A015CC553D77e16dE236C452edB67930087",
+      "name": "404Token3",
+      "symbol": "404Token3",
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png"
+    },
+    {
+      "chainId": 90001,
+      "address": "0x1f835A46B268201D37164dE5b4b4aD6800fCb6DA",
+      "name": "404Token4",
+      "symbol": "404Token4",
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png"
     }
   ],
   "version": {
