@@ -44,7 +44,13 @@
       "name": "404Token1",
       "symbol": "404Token1",
       "decimals": 18,
-      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png"
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png",
+      "extensions": {
+        "erc404Info": {
+            "stdType": "pandoraV2",
+            "erc721": "0x022aC14096B5E9d565AaB720FB1e18a98766CA18"
+        }
+      }
     },
     {
       "chainId": 90001,
@@ -52,7 +58,13 @@
       "name": "404Token2",
       "symbol": "404Token2",
       "decimals": 18,
-      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png"
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png",
+      "extensions": {
+        "erc404Info": {
+            "stdType": "pandoraV2",
+            "erc721": "0x03047e98cCdC8d25A046F4097a01D04ec13d4853"
+        }
+      }
     },
 
     {
@@ -61,7 +73,13 @@
       "name": "404Token3",
       "symbol": "404Token3",
       "decimals": 18,
-      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png"
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png",
+      "extensions": {
+        "erc404Info": {
+            "stdType": "pandoraV2",
+            "erc721": "0x9c817A015CC553D77e16dE236C452edB67930087"
+        }
+      }
     },
     {
       "chainId": 90001,
@@ -69,7 +87,41 @@
       "name": "404Token4",
       "symbol": "404Token4",
       "decimals": 18,
-      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png"
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png",
+      "extensions": {
+        "erc404Info": {
+            "stdType": "pandoraV2",
+            "erc721": "0x1f835A46B268201D37164dE5b4b4aD6800fCb6DA"
+        }
+      }
+    },
+    {
+      "chainId": 90001,
+      "address": "0x8Da8D55601Fb45515D56559d7f336539fe74B033",
+      "name": "PandoraV1",
+      "symbol": "PandoraV1",
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png",
+      "extensions": {
+        "erc404Info": {
+            "stdType": "pandoraV1",
+            "erc721": "0x8Da8D55601Fb45515D56559d7f336539fe74B033"
+        }
+      }
+    },
+    {
+      "chainId": 90001,
+      "address": "0x483d5ca79206fD6114fCc672B0E427AfA675987C",
+      "name": "DN404",
+      "symbol": "DN404",
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png",
+      "extensions": {
+        "erc404Info": {
+            "stdType": "dn404",
+            "erc721": "0x62Fe79ee8FD0507e2aef89184d92F00819B68aA7"
+        }
+      }
     }
   ],
   "version": {
