@@ -97,7 +97,7 @@
     },
     {
       "chainId": 90001,
-      "address": "0x8Da8D55601Fb45515D56559d7f336539fe74B033",
+      "address": "0x52F9372ca1ED8A299671914F40Df48a298cE16FC",
       "name": "PandoraV1",
       "symbol": "PandoraV1",
       "decimals": 18,
@@ -105,7 +105,7 @@
       "extensions": {
         "erc404Info": {
             "stdType": "pandoraV1",
-            "erc721": "0x8Da8D55601Fb45515D56559d7f336539fe74B033"
+            "erc721": "0x52F9372ca1ED8A299671914F40Df48a298cE16FC"
         }
       }
     },
