@@ -40,35 +40,6 @@
     },
     {
       "chainId": 90001,
-      "address": "0x022aC14096B5E9d565AaB720FB1e18a98766CA18",
-      "name": "404Token1",
-      "symbol": "404Token1",
-      "decimals": 18,
-      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png",
-      "extensions": {
-        "erc404Info": {
-            "stdType": "pandoraV2",
-            "erc721": "0x022aC14096B5E9d565AaB720FB1e18a98766CA18"
-        }
-      }
-    },
-    {
-      "chainId": 90001,
-      "address": "0x03047e98cCdC8d25A046F4097a01D04ec13d4853",
-      "name": "404Token2",
-      "symbol": "404Token2",
-      "decimals": 18,
-      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png",
-      "extensions": {
-        "erc404Info": {
-            "stdType": "pandoraV2",
-            "erc721": "0x03047e98cCdC8d25A046F4097a01D04ec13d4853"
-        }
-      }
-    },
-
-    {
-      "chainId": 90001,
       "address": "0x9c817A015CC553D77e16dE236C452edB67930087",
       "name": "404Token3",
       "symbol": "404Token3",
