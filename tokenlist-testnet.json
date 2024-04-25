@@ -48,7 +48,8 @@
       "extensions": {
         "erc404Info": {
             "stdType": "pandoraV2",
-            "erc721": "0x9c817A015CC553D77e16dE236C452edB67930087"
+            "erc721": "0x9c817A015CC553D77e16dE236C452edB67930087",
+            "unit": 18
         }
       }
     },
@@ -62,7 +63,8 @@
       "extensions": {
         "erc404Info": {
             "stdType": "pandoraV2",
-            "erc721": "0x1f835A46B268201D37164dE5b4b4aD6800fCb6DA"
+            "erc721": "0x1f835A46B268201D37164dE5b4b4aD6800fCb6DA",
+            "unit": 18
         }
       }
     },
@@ -76,7 +78,8 @@
       "extensions": {
         "erc404Info": {
             "stdType": "pandoraV1",
-            "erc721": "0x38c00857BE15140945B18dA991b1E7698082d59b"
+            "erc721": "0x38c00857BE15140945B18dA991b1E7698082d59b",
+            "unit": 18
         }
       }
     },
@@ -90,7 +93,8 @@
       "extensions": {
         "erc404Info": {
             "stdType": "dn404",
-            "erc721": "0x62Fe79ee8FD0507e2aef89184d92F00819B68aA7"
+            "erc721": "0x62Fe79ee8FD0507e2aef89184d92F00819B68aA7",
+            "unit": 18
         }
       }
     }
