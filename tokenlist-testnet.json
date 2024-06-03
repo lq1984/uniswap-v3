@@ -24,6 +24,14 @@
     },
     {
       "chainId": 90001,
+      "address": "0x4AF57825b86Abf93D4F9D720bEF7c1C1b300A6F3",
+      "name": "DAI",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4943.png"
+    },
+    {
+      "chainId": 90001,
       "address": "0x75a240C34d1380a4e5E033F87ef7e8Da2BF7A01A",
       "name": "Token0",
       "symbol": "Token0",
